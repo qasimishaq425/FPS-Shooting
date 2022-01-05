@@ -1,0 +1,19 @@
+Converting script [1 / 2]	[\Scripts\CameraController.cs]
+	Fragments : 2
+		[ 0] : Line:  105	InputMethod   GetAxis             	("Mouse X")
+		[ 1] : Line:  106	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [2 / 2]	[\Scripts\PlayerMovement.cs]
+	Fragments : 4
+		[ 0] : Line:   17	Other mod.	[Touch]
+		[ 1] : Line:   26	Other mod.	[Cursor.visible]
+		[ 2] : Line:   37	InputMethod   GetAxis             	("Horizontal")
+		[ 3] : Line:   38	InputMethod   GetAxis             	("Vertical")
+
+
+2 scripts modified!
+Overwriting actual scripts...
+	[0 / 2] from  [D:/Projects/FPS/CF2-Data/Script-Backups/2022-01-05-01-51\Assets-After/\Scripts\CameraController.cs] to [D:/Projects/FPS/Assets/\Scripts\CameraController.cs]
+	[1 / 2] from  [D:/Projects/FPS/CF2-Data/Script-Backups/2022-01-05-01-51\Assets-After/\Scripts\PlayerMovement.cs] to [D:/Projects/FPS/Assets/\Scripts\PlayerMovement.cs]
+
+Overwriting COMPLETED!
